@@ -7,3 +7,5 @@ Currently I'm studying mobile programming:
 |----|-----------|--------------|---------------------------|-------|---------|
 | 1  | 1         | 1            | Pengenalan Mobile & Setup | [Modul 1](https://github.com/topiqq/Modul-1---Mobile) | [Laporan](https://drive.google.com/file/d/1PTSjWNlI4pbni6gdhY5-aJT6wTUin6tJ/view?usp=drive_link) |
 | 2  | 1         | 1            | Widget Row & Column       | [Modul 2](https://github.com/topiqq/Modul-2---Mobile) | [Laporan](https://drive.google.com/file/d/1VFUg-YLzER8VoFkgWMyh6F5Uj1rfPFoZ/view?usp=sharing) |
+| 3  | 2         | 2            | Pengaturan Layout Row dan Column di Flutter | [Modul 3](https://github.com/topiqq/Modul-3---Mobile) | [Laporan](https://drive.google.com/file/d/1zTlSu7JkHugq2Zg8fWVuwd7ahzssOwHV/view?usp=sharing) |
+| 4  | 2         | 2            | Widget Flexible dan Expanded | [Modul 4](https://github.com/topiqq/Modul-4---Mobile) | [Laporan](https://drive.google.com/file/d/176pMCgOJnXHCCa5n17M0Bs8gjQLZLLyz/view?usp=sharing) |
