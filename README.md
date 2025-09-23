@@ -5,8 +5,8 @@ Currently I'm studying mobile programming:
 
 | No | Minggu ke | Praktikum ke | Topik                     | Modul | Laporan |
 |----|-----------|--------------|---------------------------|-------|---------|
-| 1  | 1         | 1            | Pengenalan Mobile & Setup | [Modul 1](https://github.com/topiqq/Modul-1---Mobile) | [Laporan](https://drive.google.com/file/d/1PTSjWNlI4pbni6gdhY5-aJT6wTUin6tJ/view?usp=drive_link) |
-| 2  | 1         | 1            | Widget Row & Column       | [Modul 2](https://github.com/topiqq/Modul-2---Mobile) | [Laporan](https://drive.google.com/file/d/1VFUg-YLzER8VoFkgWMyh6F5Uj1rfPFoZ/view?usp=sharing) |
-| 3  | 2         | 2            | Pengaturan Layout Row dan Column di Flutter | [Modul 3](https://github.com/topiqq/Modul-3---Mobile) | [Laporan](https://drive.google.com/file/d/1zTlSu7JkHugq2Zg8fWVuwd7ahzssOwHV/view?usp=sharing) |
-| 4  | 2         | 2            | Widget Flexible dan Expanded | [Modul 4](https://github.com/topiqq/Modul-4---Mobile) | [Laporan](https://drive.google.com/file/d/176pMCgOJnXHCCa5n17M0Bs8gjQLZLLyz/view?usp=sharing) |
-| 5  | 3         | 3            | Widget SizedBox, Spacer, dan Card | [Modul 5]()
+| 1  | 1         | 1            | Pengenalan Mobile & Setup Lingkungan | [Modul 1](https://github.com/topiqq/Modul-1---Mobile) | [Laporan 1](https://drive.google.com/file/d/1PTSjWNlI4pbni6gdhY5-aJT6wTUin6tJ/view?usp=drive_link) |
+| 2  | 1         | 1            | Widget Row & Column       | [Modul 2](https://github.com/topiqq/Modul-2---Mobile) | [Laporan 2](https://drive.google.com/file/d/1VFUg-YLzER8VoFkgWMyh6F5Uj1rfPFoZ/view?usp=sharing) |
+| 3  | 2         | 2            | Pengaturan Layout Row dan Column di Flutter | [Modul 3](https://github.com/topiqq/Modul-3---Mobile) | [Laporan 3](https://drive.google.com/file/d/1zTlSu7JkHugq2Zg8fWVuwd7ahzssOwHV/view?usp=sharing) |
+| 4  | 2         | 2            | Widget Flexible dan Expanded | [Modul 4](https://github.com/topiqq/Modul-4---Mobile) | [Laporan 4](https://drive.google.com/file/d/176pMCgOJnXHCCa5n17M0Bs8gjQLZLLyz/view?usp=sharing) |
+| 5  | 3         | 3            | Widget SizedBox, Spacer, dan Card | [Modul 5](https://github.com/topiqq/Modul-5---Mobile) | [Laporan 5](https://drive.google.com/file/d/1oyRuyAD44wwJk6JNSBgreBu8H4Alo8xU/view?usp=sharing) |
