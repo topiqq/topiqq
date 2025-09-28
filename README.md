@@ -10,3 +10,4 @@ Currently I'm studying mobile programming:
 | 3  | 2         | 2            | Pengaturan Layout Row dan Column di Flutter | [Modul 3](https://github.com/topiqq/Modul-3---Mobile) | [Laporan 3](https://drive.google.com/file/d/1zTlSu7JkHugq2Zg8fWVuwd7ahzssOwHV/view?usp=sharing) |
 | 4  | 2         | 2            | Widget Flexible dan Expanded | [Modul 4](https://github.com/topiqq/Modul-4---Mobile) | [Laporan 4](https://drive.google.com/file/d/176pMCgOJnXHCCa5n17M0Bs8gjQLZLLyz/view?usp=sharing) |
 | 5  | 3         | 3            | Widget SizedBox, Spacer, dan Card | [Modul 5](https://github.com/topiqq/Modul-5---Mobile) | [Laporan 5](https://drive.google.com/file/d/1oyRuyAD44wwJk6JNSBgreBu8H4Alo8xU/view?usp=sharing) |
+| 6  | 3         | 3            | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 6](https://github.com/topiqq/Modul-6---Mobile) | [Laporan 6](https://drive.google.com/file/d/1meN19AQDFcKJej5FPc808Wt5vHxgpmuQ/view?usp=sharing) |
