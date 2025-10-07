@@ -13,4 +13,4 @@ Currently I'm studying mobile programming:
 | 6  | 3         | 3            | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 6](https://github.com/topiqq/Modul-6---Mobile) | [Laporan 6](https://drive.google.com/file/d/1meN19AQDFcKJej5FPc808Wt5vHxgpmuQ/view?usp=sharing) |
 | 7  | 4         | 4            | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 7](https://github.com/topiqq/Modul-7---Mobile) | [Laporan 7](https://drive.google.com/file/d/16OLL1ue0S0AlglkpGqiFjeb0Ly-L0ib1/view?usp=sharing) |
 | 8  | 4         | 4            | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 8](https://github.com/topiqq/Modul-8---Mobile)| [Laporan 8] |
-| 9  | 5         | 5            | Stateful Widget | [Modul 9] |
+| 9  | 5         | 5            | Stateful Widget | [Modul 9](https://github.com/topiqq/Modul-9---Mobile) | [Laporan 9] |
