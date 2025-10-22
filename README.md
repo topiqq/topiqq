@@ -14,3 +14,5 @@ Currently I'm studying mobile programming:
 | 7  | 4         | 4            | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 7](https://github.com/topiqq/Modul-7---Mobile) | [Laporan 7](https://drive.google.com/file/d/16OLL1ue0S0AlglkpGqiFjeb0Ly-L0ib1/view?usp=sharing) |
 | 8  | 4         | 4            | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 8](https://github.com/topiqq/Modul-8---Mobile)| [Laporan 8] |
 | 9  | 5         | 5            | Stateful Widget | [Modul 9](https://github.com/topiqq/Modul-9---Mobile) | [Laporan 9] |
+| 10  | 6         | 6            | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/topiqq/Modul-10---Mobile) | [Laporan 10] |
+| 9  | 7         | 7            | Manajemen State dengan GetX | [Modul 11](https://github.com/topiqq/Modul-11---Mobile) | [Laporan 11] |
