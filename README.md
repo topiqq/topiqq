@@ -17,3 +17,5 @@ Currently I'm studying mobile programming:
 | 10  | 6         | 6            | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/topiqq/Modul-10---Mobile) | [Laporan 10] |
 | 9  | 7         | 7            | Manajemen State dengan GetX | [Modul 11](https://github.com/topiqq/Modul-11---Mobile)  | [Laporan 11] |
 | 10 | 8         | 8            | Ujian Tengah Semester       | [UTS](https://github.com/topiqq/Tripify)  | [Laporan UTS](https://drive.google.com/file/d/1KR4vfTWrpBN5oNguTEeAZO-T0rqueGnq/view?usp=sharing) |
+| 11 | 9         | 9            |  | [Modul 12] | [Laporan 12] |
+| 12 | 10        | 10           |  | [Modul13] | [Laporan 13] |
