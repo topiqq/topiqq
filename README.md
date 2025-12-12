@@ -17,6 +17,6 @@ Currently I'm studying mobile programming:
 | 10  | 6         | 6            | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/topiqq/Modul-10---Mobile) | [Laporan 10] |
 | 9  | 7         | 7            | Manajemen State dengan GetX | [Modul 11](https://github.com/topiqq/Modul-11---Mobile)  | [Laporan 11] |
 | 10 | 8         | 8            | Ujian Tengah Semester       | [UTS](https://github.com/topiqq/Tripify)  | [Laporan UTS](https://drive.google.com/file/d/1KR4vfTWrpBN5oNguTEeAZO-T0rqueGnq/view?usp=sharing) |
-| 11 | 9         | 9            | Akses Lokasi dengan GPS di Flutter | [Modul 12] | [Laporan 12] |
-| 12 | 10        | 10           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul13] | [Laporan 13] |
+| 11 | 9         | 9            | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://github.com/topiqq/Modul-12---Mobile) | [Laporan 12](https://drive.google.com/file/d/14qaVjWreJ1AvlBLNC2knESECRORE-xAb/view?usp=sharing) |
+| 12 | 10        | 10           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul13](https://github.com/topiqq/Modul-13---Mobile) | [Laporan 13](https://drive.google.com/file/d/1CqHioy9tHQN9KntRsDN3tHEXzYWSc0ZA/view?usp=sharing) |
 | 13 | 11        | 11           | Ujian Akhir Semester | [UAS](https://github.com/topiqq/Tripify/tree/UAS) | [Laporan UAS](https://drive.google.com/file/d/1jFbQ5J71AJPmL7b5EhipPOu-N6R3uIKm/view?usp=drive_link) |
